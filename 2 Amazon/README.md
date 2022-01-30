@@ -8,3 +8,4 @@ We have completed 15 questions in 5 days for each of the 6 companies.
 4. Adobe (4 - 20)
 5. Intuit ( 21 - 25)
 6. Walmart (26 - 30)
+P.S. I had previously solved the Generate paranthesis i.e. 4th question long time ago that's why it's in C++ 
